@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 067655bb75e4a7b4a875b0356a37026d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AER
+    second: {fileID: 2100000, guid: 7f15b9bfce43f324fac730578a76e090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: df135fe4387a0d944a516f61e5d4c05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: fd6c24457d91d2b4dafccbdb6414b93c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 186c5ede9ffbee449b4957186f169c0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 1e195db3ffc2afb4cb3407c13b4cbe43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 31462323b23b8d344bd53d9c17b76a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: dfd0a3d7d28f13b48876bd8b64c3fc8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 1971e144d6bc0244590247ad9d2b5f20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 06b9a535142bb13428fec2552033ed17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 02e9fdcfeda0ecd4a9080edf8e42ed3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 8c953d134ffe8ff488b3b69509bb7f76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: b3e0ea772ae551b4f9bdfd44c80814a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROCK
+    second: {fileID: 2100000, guid: 53dd9a23cab849d4c886b07bd2ca9187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOOD
+    second: {fileID: 2100000, guid: 0695aab31c57eaa42a3b030a92566387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOOD.001
+    second: {fileID: 2100000, guid: 2a9be64431179bb48837f2d50a55c538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOOD.002
+    second: {fileID: 2100000, guid: b45a61507f04f284ba529c79cc6a16b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOOD.003
+    second: {fileID: 2100000, guid: ce56e79a96c40114c9fbe6f50dd96bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dor
+    second: {fileID: 2100000, guid: e15a84950b39aba42b91a73c523f1fa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 5598ecdab3ee15048bbe704d0d2872e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: med
+    second: {fileID: 2100000, guid: f7f9ddce81ce25d478b60b6064a0a8cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red
+    second: {fileID: 2100000, guid: afe87b917809fcf40b3308ba8b3f0733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trek
+    second: {fileID: 2100000, guid: b0bdc05574279c747a28f52ecf66e1fd, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SpecularMap
+    second: {fileID: 2800000, guid: f79c172c81d02c0429d9a69e89e359ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SpecularMap (1)
+    second: {fileID: 2800000, guid: 89c7f3cb9b267234a8cb01eccc67496a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aerial_rocks_01_diff_2k
+    second: {fileID: 2800000, guid: fb65823baaf9dc547968ef9b346a3c9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aerial_rocks_01_nor_gl_2k
+    second: {fileID: 2800000, guid: e6f4061cf75b4694d9dcd5464b0286d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aerial_rocks_01_rough_2k
+    second: {fileID: 2800000, guid: aaadc5adb46d13848abc042448813a73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cobblestone_floor_04_diff_2k
+    second: {fileID: 2800000, guid: 1634476c784c54a4cb680f198e4f89c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cobblestone_floor_04_nor_gl_2k
+    second: {fileID: 2800000, guid: 86e8e8579f79ebe44b33d4954342ca3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cobblestone_floor_04_rough_2k
+    second: {fileID: 2800000, guid: 6878b16631be2a74cb5900b282a47eab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gravel_concrete_diff_2k
+    second: {fileID: 2800000, guid: 8da9d74f82f6f0a4fb1be2bc2b89b426, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gravel_concrete_disp_2k
+    second: {fileID: 2800000, guid: 792e26739997cef478bca7d66284a6b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: medieval_blocks_03_diff_2k
+    second: {fileID: 2800000, guid: bdb6a022724ddc04997f972894e0f868, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: medieval_blocks_03_nor_gl_2k
+    second: {fileID: 2800000, guid: 7b1a1f1a9ddbed042b9bb03676260caf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: medieval_blocks_03_rough_2k
+    second: {fileID: 2800000, guid: 7fbfa5c6350a67e44b20570a039b4ba3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: red_plaster_weathered_diff_2k
+    second: {fileID: 2800000, guid: 6c61e55f1c2efca43a1425077a42a8a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: red_plaster_weathered_disp_2k
+    second: {fileID: 2800000, guid: 01402afa2c378064db3b48d144045d92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_pitted_mossy_diff_2k
+    second: {fileID: 2800000, guid: 7e4d8506addafa4429c6c542907dadb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_pitted_mossy_nor_gl_2k
+    second: {fileID: 2800000, guid: f9992062aaeffa7458fb0d4ba82c1e51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_pitted_mossy_rough_2k
+    second: {fileID: 2800000, guid: 18696129510fe344e9a65a986b1ccec7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_planks_grey_diff_2k
+    second: {fileID: 2800000, guid: 16faef8089671c14b901a9a5e0ae7689, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_planks_grey_disp_2k
+    second: {fileID: 2800000, guid: 50d51719e18bc1c48bba7111161522dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043A\u0430\u043C\u0435\u043D\u043D\u0430\u044F \u043A\u043B\u0430\u0434\u043A\u0430"
+    second: {fileID: 2800000, guid: 3d0d3445e3c2e424c9d02ffe8ab61148, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0447\u0435\u0440\u0435\u043F\u0438\u0446\u0430"
+    second: {fileID: 2800000, guid: 67230537150c5454dbcf78147e815e0b, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: uploads_files_4187931_castle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.001
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 0.12579846, y: 17.760952, z: 4.034613}
+      rotation: {x: -0.707105, y: -0.001584757, z: -0.0015847571, w: 0.70710504}
+      scale: {x: 87.05206, y: 87.05206, z: 87.05206}
+    - name: Cube.002
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 0.12873316, y: 16.00794, z: 4.4989023}
+      rotation: {x: -0.50479513, y: 0.4951584, z: 0.4951585, w: 0.5047951}
+      scale: {x: 85.22139, y: 85.22139, z: 85.22139}
+    - name: Cube.003
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -2.0422661, y: 17.776833, z: 0.7227095}
+      rotation: {x: -0.5025751, y: 0.49712807, z: 0.49741206, w: 0.50285506}
+      scale: {x: 40.072056, y: 40.072056, z: 40.072056}
+    - name: Cube.004
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -3.0922275, y: 15.122081, z: 2.701653}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 47.016838, y: 103.93208, z: 55.10537}
+    - name: Cube.005
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -1.907577, y: 14.89754, z: 4.480058}
+      rotation: {x: -0.0015323429, y: 0.7071051, z: 0.70710516, w: 0.0015323431}
+      scale: {x: 100.00001, y: 35.373325, z: 100}
+    - name: Cube.007
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -3.380951, y: 13.135613, z: 6.0063486}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 58.650787, y: 58.650787, z: 58.65079}
+    - name: Cube.008
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -5.2349463, y: 13.068172, z: 2.6186762}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 79.54016, y: 79.54016, z: 19.507406}
+    - name: Cube.009
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -2.1473517, y: 9.045203, z: -4.661712}
+      rotation: {x: -0.0015323429, y: 0.7071051, z: 0.70710516, w: 0.0015323431}
+      scale: {x: 100.00002, y: 154.48618, z: 100}
+    - name: Cube.010
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.2264605, y: 7.3944073, z: -0.117984295}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 45.54743, y: 125.38094, z: 100}
+    - name: Cube.011
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -2.2609615, y: 14.885367, z: -3.2247603}
+      rotation: {x: -0.0015323429, y: 0.7071051, z: 0.70710516, w: 0.0015323431}
+      scale: {x: 55.955853, y: 100.00001, z: 100}
+    - name: Cube.012
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -1.1357236, y: 14.885539, z: -2.7076058}
+      rotation: {x: -0.0015323429, y: 0.7071051, z: 0.70710516, w: 0.0015323431}
+      scale: {x: 100.00002, y: 154.48618, z: 100}
+    - name: Cube.013
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -4.677658, y: 6.8925157, z: -6.466401}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 118.34782, y: 118.34782, z: 118.34781}
+    - name: Cube.014
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -5.1578655, y: 6.2875614, z: -4.5449224}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 31.74248, y: 31.74248, z: 31.742474}
+    - name: Cube.015
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -7.0502777, y: 6.2334576, z: -0.12260151}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 37.464066, y: 37.464066, z: 15.77612}
+    - name: Cube.016
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -0.97418785, y: 15.090098, z: -0.85935414}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 40.984905, y: 40.984905, z: 40.984898}
+    - name: Cube.018
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 2.3472, y: 10.333065, z: -1.6289433}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 47.172653, y: 47.172653, z: 47.172653}
+    - name: Cube.019
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -5.4956937, y: 11.124211, z: 4.3013244}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 27.734245, y: 27.734245, z: 27.73425}
+    - name: Cube.020
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -7.036487, y: 4.0645494, z: -0.043616295}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 239.77673, y: 239.77673, z: 239.77673}
+    - name: Cube.022
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -0.65275234, y: 18.109638, z: -2.3924136}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 26.041456, y: 26.041456, z: 26.04145}
+    - name: Cube.023
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -4.611876, y: 6.2875614, z: -7.5158567}
+      rotation: {x: -0.12956531, y: 0.6951351, z: 0.6951351, w: 0.12956531}
+      scale: {x: 31.742481, y: 31.742481, z: 31.742474}
+    - name: Cube.024
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -3.688729, y: 6.9996715, z: -8.8487425}
+      rotation: {x: -0.16656049, y: 0.6872101, z: 0.68721, w: 0.1665605}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Cube.025
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -4.1687326, y: 6.081888, z: -9.900855}
+      rotation: {x: -0.16656049, y: 0.6872101, z: 0.68721, w: 0.1665605}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Cube.026
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -1.9153603, y: 12.4331665, z: 7.7494535}
+      rotation: {x: 0.0066743037, y: 0.7907874, z: 0.61205417, w: 0.00075107894}
+      scale: {x: 23.770773, y: 23.770773, z: 23.770771}
+    - name: Cube.027
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -2.0987248, y: 5.22156, z: -9.48585}
+      rotation: {x: -0.6437302, y: 0.2925945, z: 0.29259452, w: 0.6437301}
+      scale: {x: 31.74248, y: 31.74248, z: 31.742474}
+    - name: Cube.028
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 1.4063115, y: 18.227411, z: 2.9086275}
+      rotation: {x: -0.5118612, y: -0.4878505, z: -0.48785082, w: 0.5118609}
+      scale: {x: 26.041454, y: 26.041454, z: 26.04145}
+    - name: Cube.029
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 1.3966675, y: 18.227411, z: 0.6510925}
+      rotation: {x: -0.50610524, y: -0.49381936, z: -0.49382055, w: 0.506104}
+      scale: {x: 26.041456, y: 26.041456, z: 26.04145}
+    - name: Cube.030
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 0.98542, y: 21.11297, z: 3.9916658}
+      rotation: {x: 0.4838305, y: 0.5156627, z: 0.5156626, w: -0.4838307}
+      scale: {x: 26.041454, y: 26.041454, z: 26.04145}
+    - name: Cube.032
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.2024055, y: 16.537792, z: -0.93017864}
+      rotation: {x: 0.49182358, y: 0.50804484, z: 0.50804436, w: -0.4918241}
+      scale: {x: 37.464066, y: 37.464066, z: 15.77612}
+    - name: Cube.034
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.0600767, y: 11.132487, z: 5.2501435}
+      rotation: {x: -0.08923444, y: 0.7014536, z: 0.7014537, w: 0.08923444}
+      scale: {x: 31.74248, y: 31.74248, z: 31.742474}
+    - name: Cube.035
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 2.7076163, y: 14.946391, z: -2.5621393}
+      rotation: {x: -0.0007550719, y: 0.7071064, z: 0.70710635, w: 0.0007550719}
+      scale: {x: 29.486416, y: 29.486416, z: 12.41673}
+    - name: Cube.036
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 5.720207, y: 7.7941766, z: 0.22936583}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 24.073046, y: 24.073046, z: 24.073046}
+    - name: Cube.037
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 1.0140424, y: 6.678047, z: -7.012539}
+      rotation: {x: -0.5852769, y: 0.39680088, z: 0.3968009, w: 0.5852769}
+      scale: {x: 31.742481, y: 31.742481, z: 31.742474}
+    - name: Cube.038
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 5.0599523, y: 10.616762, z: -4.887651}
+      rotation: {x: -0.70668966, y: 0.02428755, z: 0.024287552, w: 0.70668954}
+      scale: {x: 31.742481, y: 31.742481, z: 31.742474}
+    - name: Cube.039
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 1.444035, y: 9.596907, z: 7.729582}
+      rotation: {x: 0.32629213, y: 0.62732244, z: 0.62732244, w: -0.32629216}
+      scale: {x: 31.742481, y: 31.742481, z: 31.742474}
+    - name: Cube.040
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -0.17742205, y: 10.910632, z: 1.7256894}
+      rotation: {x: -0.002972409, y: 0.7071005, z: 0.7071006, w: 0.0029724091}
+      scale: {x: 146.20494, y: 146.20494, z: 146.20485}
+    - name: Cube.041
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -1.2444928, y: 23.878382, z: 0.95626235}
+      rotation: {x: -0.001532343, y: 0.70710516, z: 0.7071051, w: 0.0015323431}
+      scale: {x: 1.2875603, y: 1.2875603, z: 1.2875605}
+    - name: Cube.044
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 0.27837813, y: 9.684276, z: -3.776384}
+      rotation: {x: -0.50429106, y: 0.4956719, z: 0.4956758, w: 0.504287}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.045
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 3.7985356, y: 14.885539, z: -2.6683722}
+      rotation: {x: -0.0015323429, y: 0.7071051, z: 0.70710516, w: 0.0015323431}
+      scale: {x: 100.00002, y: 154.48618, z: 100}
+    - name: Cube.046
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.608488, y: 8.217045, z: 0.9239252}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 4.440975, y: 4.440975, z: 4.440975}
+    - name: Cube.047
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -4.777726, y: 9.547365, z: -8.623203}
+      rotation: {x: -0.16901149, y: 0.68661135, z: 0.6866113, w: 0.1690115}
+      scale: {x: 3.1236901, y: 3.1236901, z: 3.1236897}
+    - name: Cube.048
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.608488, y: 8.217045, z: 0.9239252}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 4.440975, y: 4.440975, z: 4.440975}
+    - name: Cube.049
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.313398, y: 10.017374, z: -1.4262229}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 4.440975, y: 4.440975, z: 4.440975}
+    - name: Cube.050
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -3.167677, y: 9.547365, z: -7.7794414}
+      rotation: {x: -0.16901149, y: 0.68661135, z: 0.6866113, w: 0.1690115}
+      scale: {x: 3.1236901, y: 3.1236901, z: 3.1236897}
+    - name: Cube.053
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.3250523, y: 10.017374, z: 1.2627949}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 4.440975, y: 4.440975, z: 4.440975}
+    - name: Cube.056
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -5.609493, y: 7.721709, z: -7.137012}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 4.440975, y: 4.440975, z: 4.440975}
+    - name: Cube.062
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.588186, y: 8.489972, z: -3.921808}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 4.9267106, y: 4.9267106, z: 4.9267106}
+    - name: Cube.066
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.621688, y: 8.489972, z: 3.8078868}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 4.9267106, y: 4.9267106, z: 4.9267106}
+    - name: Cube.067
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -4.2535944, y: 14.482406, z: -1.6595482}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 4.440975, y: 4.440975, z: 4.440975}
+    - name: Cube.071
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -4.2762637, y: 14.482406, z: 3.5706618}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 4.440975, y: 4.440975, z: 4.440975}
+    - name: Cube.080
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -2.91633, y: 13.885312, z: 2.5876598}
+      rotation: {x: -0.0015323429, y: 0.7071051, z: 0.70710516, w: 0.0015323431}
+      scale: {x: 100.00002, y: 152.24306, z: 100}
+    - name: Cube.087
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -2.6721697, y: 15.793292, z: 1.8121247}
+      rotation: {x: 0.5, y: -0.49999997, z: -0.5, w: -0.5}
+      scale: {x: 4.243156, y: 4.243156, z: 4.2431555}
+    - name: Cube.089
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.3200336, y: 10.564573, z: 1.806909}
+      rotation: {x: 0.5, y: 0.49999997, z: 0.5, w: -0.5}
+      scale: {x: 2.0636184, y: 2.0636184, z: 2.063618}
+    - name: Cube.090
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.3200336, y: 10.564573, z: -3.413957}
+      rotation: {x: 0.5, y: 0.49999997, z: 0.5, w: -0.5}
+      scale: {x: 2.0636184, y: 2.0636184, z: 2.063618}
+    - name: Cylinder
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 0.13275695, y: 25.785778, z: 4.014058}
+      rotation: {x: -0.63349646, y: 0.31413737, z: 0.31413737, w: 0.6334964}
+      scale: {x: 77.756355, y: 77.756355, z: 77.756355}
+    - name: Cylinder.001
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -1.9837147, y: 15.241878, z: 4.2271366}
+      rotation: {x: -0.63349646, y: 0.31413737, z: 0.31413737, w: 0.6334964}
+      scale: {x: 42.113224, y: 42.113224, z: 42.113228}
+    - name: Cylinder.005
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -0.6872139, y: 18.348368, z: -3.1600876}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 73.80318, y: 73.80318, z: 73.803185}
+    - name: Cylinder.006
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -1.9192271, y: 12.542125, z: 8.109437}
+      rotation: {x: -0.63349646, y: 0.31413737, z: 0.31413743, w: 0.63349634}
+      scale: {x: 36.083683, y: 36.083683, z: 36.08368}
+    - name: Cylinder.007
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 2.154046, y: 12.788776, z: 8.100579}
+      rotation: {x: -0.63349646, y: 0.31413737, z: 0.31413737, w: 0.6334964}
+      scale: {x: 54.23972, y: 54.23972, z: 54.23972}
+    - name: Cylinder.008
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 1.1402885, y: 17.496044, z: 1.772388}
+      rotation: {x: -0.63349646, y: 0.31413743, z: 0.31413746, w: 0.6334963}
+      scale: {x: 88.09538, y: 88.09538, z: 88.095375}
+    - name: Cylinder.009
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 6.0322447, y: 8.955546, z: 0.2530222}
+      rotation: {x: -0.63349646, y: 0.31413737, z: 0.31413737, w: 0.6334964}
+      scale: {x: 188.34688, y: 188.34688, z: 188.34688}
+    - name: Cylinder.011
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.927729, y: 12.716914, z: -5.397854}
+      rotation: {x: -0.63349646, y: 0.31413737, z: 0.31413737, w: 0.6334964}
+      scale: {x: 54.23972, y: 54.23972, z: 54.23972}
+    - name: Cylinder.014
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 6.375474, y: 10.860578, z: 0.20057514}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 84.677826, y: 84.677826, z: 84.677826}
+    - name: Cylinder.020
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 5.2605376, y: 10.720278, z: 0.12674162}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 121.346535, y: 121.346535, z: 121.346535}
+    - name: Cylinder.021
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.3217444, y: 10.932757, z: 0.7499572}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.022
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 3.759541, y: 10.603892, z: 0.38384533}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.023
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.118431, y: 10.8358345, z: 0.4989103}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.024
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 3.4378722, y: 10.315052, z: 0.3986185}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.025
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 2.9548213, y: 10.053269, z: 0.54374486}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.026
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.5489087, y: 10.932757, z: -0.7430295}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.027
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.26152, y: 10.8358345, z: -0.5325086}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.028
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 3.9053235, y: 10.603892, z: -0.5732624}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.029
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 3.6416647, y: 10.315052, z: -0.74460423}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.030
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 3.2399786, y: 10.053269, z: -1.0591283}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.031
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.8130813, y: 10.932757, z: -1.0456493}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.032
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.5078173, y: 10.932757, z: 1.2041948}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Light
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -61.645004, y: 54.190716, z: -13.552688}
+      rotation: {x: 0.58850336, y: 0.17189544, z: 0.7544553, w: 0.23433493}
+      scale: {x: 99.99999, y: 100.00001, z: 100.00001}
+    - name: Plane
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -3.9909956, y: 6.823919, z: -0.16996108}
+      rotation: {x: -0.1174496, y: 0.6970193, z: 0.6974169, w: -0.11823446}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Plane.001
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 2.9143796, y: 9.986551, z: -0.25901893}
+      rotation: {x: -0.70464104, y: -0.060239583, z: -0.060292315, w: 0.7044268}
+      scale: {x: 100.00001, y: 100, z: 99.99999}
+    - name: Plane.002
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.388156, y: 11.022149, z: 0.8675653}
+      rotation: {x: -0.37560427, y: -0.38210717, z: 0.5983771, w: 0.5957016}
+      scale: {x: 113.39142, y: 113.39142, z: 113.39142}
+    - name: Plane.003
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 4.611638, y: 11.158214, z: 0.11781751}
+      rotation: {x: -0.37560427, y: -0.38210717, z: 0.5983771, w: 0.5957016}
+      scale: {x: 113.39142, y: 113.39142, z: 113.39142}
+    - name: Plane.004
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 6.375474, y: 10.839059, z: 0.20057514}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 313.37546, y: 313.37546, z: 313.37546}
+    - name: Sun
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 16.512037, y: 45.741722, z: 59.599667}
+      rotation: {x: 0.95534974, y: -0.1313274, z: -0.1313274, w: 0.22981095}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Cube.079
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -2.893365, y: 13.885312, z: -2.7110686}
+      rotation: {x: -0.0015323429, y: 0.7071051, z: 0.70710516, w: 0.0015323431}
+      scale: {x: 100.00002, y: 152.24306, z: 100}
+    - name: Cylinder.013
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 5.7617407, y: 16.344545, z: 3.8246274}
+      rotation: {x: -0.63349646, y: 0.31413737, z: 0.31413737, w: 0.6334964}
+      scale: {x: 32.60379, y: 32.60379, z: 32.60379}
+    - name: Cube.017
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -10.09524, y: 6.8429294, z: -0.1212368}
+      rotation: {x: -0.001532343, y: 0.7071051, z: 0.70710516, w: 0.001532343}
+      scale: {x: 46.568882, y: 46.568882, z: 46.56888}
+    - name: Cylinder.012
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -6.5335026, y: 9.216816, z: 11.146534}
+      rotation: {x: -0.63349646, y: 0.31413737, z: 0.31413737, w: 0.6334964}
+      scale: {x: 92.92561, y: 92.92561, z: 92.92561}
+    - name: Plane.007
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -5.5169725, y: 11.399075, z: 4.7113223}
+      rotation: {x: -0.64710057, y: -0.0029368156, z: -0.009121249, w: 0.7623444}
+      scale: {x: 21.683804, y: 21.683802, z: 21.683802}
+    - name: Plane.008
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -5.705185, y: 9.589258, z: 7.588052}
+      rotation: {x: -0.6355246, y: 0.0011212047, z: 0.014454383, w: 0.7719445}
+      scale: {x: 21.683802, y: 21.683804, z: 21.683802}
+    - name: Plane.009
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -5.647728, y: 8.163416, z: 9.671528}
+      rotation: {x: -0.6036128, y: 0.16803148, z: 0.16625163, w: 0.7614312}
+      scale: {x: 21.683802, y: 21.683802, z: 21.683802}
+    - name: Cylinder.043
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: -2.3805153, y: 17.451609, z: -4.2341814}
+      rotation: {x: -0.4792843, y: 0.51989096, z: 0.51989037, w: 0.47928485}
+      scale: {x: 48.843815, y: 48.843815, z: 48.843815}
+    - name: Cylinder.062
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 2.697635, y: 18.484324, z: 4.395591}
+      rotation: {x: 0.038719617, y: 0.70604587, z: 0.7060459, w: -0.038719617}
+      scale: {x: 68.187386, y: 68.187386, z: 68.187386}
+    - name: Cylinder.046
+      parentName: uploads_files_4187931_castle(Clone)
+      position: {x: 0.44704765, y: 10.335751, z: -7.7506657}
+      rotation: {x: -0.63349646, y: 0.31413737, z: 0.31413737, w: 0.6334964}
+      scale: {x: 92.92561, y: 92.92561, z: 92.92561}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
